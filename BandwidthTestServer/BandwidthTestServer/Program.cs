@@ -88,7 +88,7 @@ namespace BandwidthTest
                             break;
                     }
                 }
-               catch (Exception e)
+               catch
                 {
                     break;
                 }
